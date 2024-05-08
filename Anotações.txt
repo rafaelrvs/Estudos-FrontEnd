@@ -1,0 +1,24 @@
+Pesquisa[
+    viabilidade
+    caso de uso
+    pesquisa de limites
+]
+Analise[
+    Similaridade
+    Objetivo das telas
+    Identificação dos padroes
+    justificar fugas de padrão
+    Cores de contraste
+    Atividade, selecione sites e compare a semelhança
+    Tipografia
+
+]
+
+tecnica de desenvolvimento[
+    esboço
+    wireframe
+    Prototipo
+
+]
+
+ 
