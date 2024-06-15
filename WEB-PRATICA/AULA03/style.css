@@ -1,0 +1,6 @@
+body{
+    color: tomato;
+}
+a{
+    color: inherit;/* para herdar a cor do componente pai*/
+}
