@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: ;
+    gap: 20px;
+
+}
+
+img{
+max-width: 100%;
+}
+h1,p{
+    margin: 0;
+}
+h1{
+    font-size: 48px;
+    line-height: 1;
+}
+.preco{
+    padding: 15px;
+    background-color: #f7f7f7;
+}
+.titulo{
+
+    grid-column: 2;
+}
