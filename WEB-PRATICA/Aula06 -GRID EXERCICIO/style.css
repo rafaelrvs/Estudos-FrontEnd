@@ -6,7 +6,7 @@ body{
 .grid{
     display: grid;
     grid-template-columns: 2fr 1fr;
-    grid-template-rows: ;
+    grid-template-rows:  ;
     gap: 20px;
 
 }
