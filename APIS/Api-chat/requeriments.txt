@@ -1,0 +1,3 @@
+npm install openai@^4.0.0
+
+Authorization: Bearer OPENAI_API_KEY
